@@ -1,6 +1,7 @@
 /* MIX */
 body {
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 a {
   text-decoration: none;
@@ -81,6 +82,42 @@ a {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+.apple, .google-play {
+  width: 150px;
+  margin: 25px;
+}
+
+.monopattino-logo, .bike-logo {
+  width: 200px;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+h4 {
+  margin-bottom: 30px;
+}
+
+h6 {
+  margin-top: 25px;
+}
+
+.col-lg-6 {
+
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+
+.monopattino, .bike {
+  width: 500px;
+}
+
+.vecchietto {
+  height: 500px;
+}
+
+
+
 
 
 
